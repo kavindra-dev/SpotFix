@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677586145166",
+    "project_id": "spotpfix",
+    "storage_bucket": "spotpfix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677586145166:android:6f4c6e229e6e0c306a9edf",
+        "android_client_info": {
+          "package_name": "com.kavi.spotfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677586145166-ooq633mj5dotc4062c3f1j4nj3id6frg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpKnw44eEneMfrwhTqskApjngKoNYlYUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677586145166-ooq633mj5dotc4062c3f1j4nj3id6frg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
